@@ -1,0 +1,10 @@
+Aug 24, 2021 3:14:10 PM com.creditsuisse.problem.Main main
+INFO: Starting with processing of json files
+Aug 24, 2021 3:14:12 PM com.creditsuisse.problem.fileReader.JsonFileReader getFileNameAndPath
+INFO: file path to be used src/jsonFiles/log.json
+Aug 24, 2021 3:14:12 PM com.creditsuisse.problem.LogAdder ReadFileAndInsertFileContentIntoMap
+INFO: Starting inserting json file content into HashMap....................
+Aug 24, 2021 3:14:12 PM com.creditsuisse.problem.LogAdder ReadFileAndInsertFileContentIntoMap
+INFO: Completed inserting json file content into HashMap....................
+Aug 24, 2021 3:14:12 PM com.creditsuisse.problem.db.Database insertIntoDB
+INFO: Final insertion into database 
